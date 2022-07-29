@@ -5,7 +5,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaishak&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zekeriyaishak=anuraghazra&theme=dark&show_icons=true)
 
 
 <!--
