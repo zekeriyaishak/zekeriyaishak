@@ -4,9 +4,12 @@
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaishak&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zekeriyaishak=anuraghazra&theme=dark&show_icons=true)
+
+
 <!--
 **zekeriyaishak/zekeriyaishak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zekeriyaishak=anuraghazra&theme=dark&show_icons=true)
 
 Here are some ideas to get you started:
 
