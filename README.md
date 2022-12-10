@@ -1,6 +1,3 @@
-### Hi there 👋
-
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Zekeriya Ishak</h1>
 <h3 align="center">I'm student of Computer Engineering</h3>
 
